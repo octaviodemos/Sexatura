@@ -1,4 +1,4 @@
-﻿using ExericioTela.Modelos;
+﻿using Sexatura.Modelos;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExericioTela.Repositorios
+namespace Sexatura.Repositorios
 {
     public class PessoaRepositorio
     {

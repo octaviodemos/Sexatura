@@ -1,4 +1,4 @@
-﻿using ExericioTela.ViewModels;
+﻿using Sexatura.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;

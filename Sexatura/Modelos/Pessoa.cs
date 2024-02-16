@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.Runtime.CompilerServices;
 
-namespace ExericioTela.Modelos
+namespace Sexatura.Modelos
 {
     public class Pessoa : INotifyPropertyChanged
     {

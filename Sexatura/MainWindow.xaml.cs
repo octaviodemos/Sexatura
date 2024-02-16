@@ -6,11 +6,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Controls;
 using System.Collections.Specialized;
-using static ExercicioTela.MainWindow;
-using ExericioTela.Repositorios;
-using ExericioTela.Modelos;
+using static Sexatura.MainWindow;
+using Sexatura.Repositorios;
+using Sexatura.Modelos;
 
-namespace ExercicioTela
+namespace Sexatura
 {
     public partial class MainWindow : Window
     {
